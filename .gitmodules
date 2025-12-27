@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/dipongkorroy000/project_012_server
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/dipongkorroy000/project_012_client
