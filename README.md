@@ -17,7 +17,3 @@ The backend serves as the API and content manager for the portfolio. Its main re
 
 **Note:** The `frontend` and `backend` folders are Git submodules linking to their respective standalone repositories.
 
-## Submodules
-
-- [Backend](./backend) → latest commit: ![GitHub last commit](https://img.shields.io/github/last-commit/dipongkorroy000/backend-repo-name)
-- [Frontend](./frontend) → latest commit: ![GitHub last commit](https://img.shields.io/github/last-commit/dipongkorroy000/frontend-repo-name)
