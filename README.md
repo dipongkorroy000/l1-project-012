@@ -1,4 +1,4 @@
-## 3.3 TaskNet Web Application
+## TaskNet Web Application
 A freelancing-style web app built with Node.js, Firebase, Stripe, and MongoDB. Supports three roles — Admin, Buyer, and Worker — with secure authentication, task management, and payment integration.
 
 ### 🎨 Frontend Overview
